@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536596803250",
+    "project_id": "github-plant-shop",
+    "storage_bucket": "github-plant-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536596803250:android:83e356f25554fb9c3023ab",
+        "android_client_info": {
+          "package_name": "com.darth.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536596803250-s42ub2m5lcqm3dkjioidovaqc1oj9b5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJ4H6B2-AI6ZEUXDxyRQuf9H-cLV3Zeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536596803250-s42ub2m5lcqm3dkjioidovaqc1oj9b5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
